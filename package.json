@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@slack/web-api": "^7.12.0",
+    "ws": "^8.18.3"
+  }
+}
